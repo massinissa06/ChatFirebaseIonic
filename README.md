@@ -14,9 +14,9 @@ https://www.youtube.com/watch?v=v0x4dLwmN2Q&list=PL4GFqtclxpXK-m9cpTzBpJc5DFqRRv
 https://drissas.com/ionic-facebook/</br>
 <code>ionic cordova plugin add cordova-plugin-facebook4 --save --variable APP_ID="123456789" --variable APP_NAME="myApplication"
 </code></br>
-<code>npm install @ionic-native/facebook</code>
-<code>ionic cordova plugin add cordova-plugin-firebase</code>
-<code>npm install @ionic-native/firebase</code>
+<code>npm install @ionic-native/facebook</code></br>
+<code>ionic cordova plugin add cordova-plugin-firebase</code></br>
+<code>npm install @ionic-native/firebase</code></br>
 
 3-Comment créer une app de chat en temps réel avec Ionic et Firebase ?</br>
 https://www.youtube.com/watch?v=VTe6XcOmpNc&list=PL4GFqtclxpXK-m9cpTzBpJc5DFqRRvB2N&index=17</br>
