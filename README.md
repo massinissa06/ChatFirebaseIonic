@@ -1,5 +1,5 @@
 # ChatFirebaseIonic
-ce projet contient 3 partie
+ce projet contient 3 partie</br>
 1-creation de la page de connexion:</br>
 
 https://www.youtube.com/watch?v=lEGMe4Fy9y0&list=PL4GFqtclxpXK-m9cpTzBpJc5DFqRRvB2N&index=14 </br>
